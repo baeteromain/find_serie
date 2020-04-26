@@ -1,0 +1,39 @@
+@import '~antd/dist/antd.css';
+
+/* GENERAL */
+
+h1 {
+    text-align: center;
+}
+
+/* Connexion & login */
+
+.connexion-box{
+
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 500px;
+
+}
+
+.connexion{
+    text-align: center;
+}
+
+/* SERIE */
+
+.add-serie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.maj-serie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    
+}
